@@ -1,0 +1,15 @@
+.description {
+  max-width: 600px;
+
+  border: black 3px solid;
+  border-radius: 15px;
+
+  background-color: lightgray;
+}
+
+.avatar-box {
+  border-radius: 50%;
+}
+.avatar {
+  width: 100%;
+}
