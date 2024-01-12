@@ -1,5 +1,6 @@
 .description {
-  max-width: 600px;
+  max-width: 370px;
+  padding: 20px;
 
   border: black 3px solid;
   border-radius: 15px;
@@ -8,8 +9,27 @@
 }
 
 .avatar-box {
+  margin: 0 auto;
+
+  max-width: 250px;
+  padding: 40px;
+
+  background-color: grey;
   border-radius: 50%;
 }
 .avatar {
-  width: 100%;
+  /* width: 40px;
+  height: 40px; */
+}
+.name {
+  margin-top: 15px;
+  font-weight: 700;
+  font-size: 25px;
+  text-align: center;
+}
+.tag,
+.location {
+  font-size: 15px;
+  text-align: center;
+  color: darkgray;
 }
