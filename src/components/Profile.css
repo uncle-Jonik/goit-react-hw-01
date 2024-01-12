@@ -1,11 +1,12 @@
-.description {
+.profile {
   max-width: 370px;
-  padding: 20px;
+  padding-top: 20px;
 
   border: black 3px solid;
   border-radius: 15px;
 
   background-color: lightgray;
+  overflow: hidden;
 }
 
 .avatar-box {
@@ -17,19 +18,16 @@
   background-color: grey;
   border-radius: 50%;
 }
-.avatar {
-  /* width: 40px;
-  height: 40px; */
-}
+
 .name {
   margin-top: 15px;
   font-weight: 700;
-  font-size: 25px;
+  font-size: 30px;
   text-align: center;
 }
 .tag,
 .location {
-  font-size: 15px;
+  font-size: 20px;
   text-align: center;
   color: darkgray;
 }
