@@ -5,11 +5,10 @@
   border: black 3px solid;
   border-radius: 15px;
 
-  background-color: lightgray;
   overflow: hidden;
 }
 
-.avatar-box {
+.avatarBox {
   margin: 0 auto;
 
   max-width: 250px;
