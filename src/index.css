@@ -24,3 +24,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+table,
+th,
+td {
+  border: 1px solid black; /* Змініть 'black' на власний колір границь за потребою */
+  padding: 8px; /* Задайте відступи всередині клітинок */
+}

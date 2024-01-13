@@ -1,0 +1,16 @@
+.transactionHistory {
+  width: 500px;
+  margin-left: 50px;
+
+  text-align: center;
+  border: black 3px solid;
+}
+.transactionHistory > thead {
+  text-transform: uppercase;
+  font-size: larger;
+
+  border: black 1px solid;
+
+  color: whitesmoke;
+  background-color: black;
+}
