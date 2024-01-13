@@ -1,0 +1,16 @@
+.avatar {
+  margin-bottom: 5px;
+}
+.name {
+  text-align: center;
+}
+.status {
+  text-align: center;
+  font-size: small;
+}
+.isOnline {
+  color: green;
+}
+.isOfline {
+  color: red;
+}
